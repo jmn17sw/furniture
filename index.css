@@ -13,7 +13,7 @@ body {
 .p2{
   margin:auto;
 }
-/*This controls location of price and "add to cart" button*/
+/*This controls relative locations of price and "add to cart" button*/
 .p3{
   margin-bottom: auto;
 }
@@ -26,4 +26,8 @@ body {
 }
 .p4{
   font-style: italic;
+}
+
+.p5{
+  border-color: blue;
 }
