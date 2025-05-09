@@ -1,0 +1,29 @@
+body {
+  background-color: gold;
+}
+
+.p1{
+  border-bottom: solid;
+  margin:auto;
+  padding:0cap;
+  font-family: sans-serif;
+}
+/*this adjusts product description*/
+
+.p2{
+  margin:auto;
+}
+/*This controls location of price and "add to cart" button*/
+.p3{
+  margin-bottom: auto;
+}
+/* This condences the prodcut name and description*/
+
+#Furniture_Emporium{
+  font-family: 'courier';
+  font-size: 20pt;
+
+}
+.p4{
+  font-style: italic;
+}
